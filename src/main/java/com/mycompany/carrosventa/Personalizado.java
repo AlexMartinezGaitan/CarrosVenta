@@ -7,7 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase alamcena los datos de los vehiculos que se pueden personalizar
  */

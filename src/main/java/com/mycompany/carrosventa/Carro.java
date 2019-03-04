@@ -7,7 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase es una clase padre que almacena los datos comunes entre los diferentes tipos de carros
  */

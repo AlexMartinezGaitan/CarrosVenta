@@ -10,8 +10,7 @@ import java.util.ArrayList;
 
 /**
  *Esta clase contiene las facturas de las ventas realizadas
- * @author Laura Gonzalez
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1
  */
 public class Factura {

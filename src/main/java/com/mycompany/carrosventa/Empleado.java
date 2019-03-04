@@ -7,8 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *Esta clase contiene la informacion de los empleados de la empresa
- * @author Laura Gonzalez
- * @author  Yesid Avila
+ * @author  Alexander Martinez
  * @version 1
  */
 public class Empleado extends Persona{

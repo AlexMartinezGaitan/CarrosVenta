@@ -7,7 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase contiene los datos de un vehiculo tipo maquinaria
  */

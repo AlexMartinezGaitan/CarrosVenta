@@ -7,7 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase almacena los carros mas usados o mas comunes en el mercado
  */

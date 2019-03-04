@@ -7,7 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase almacena los carros de tipo deportivo
  */

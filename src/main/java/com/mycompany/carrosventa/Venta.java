@@ -9,8 +9,7 @@ import java.util.ArrayList;
 
 /**
  *Esta clase contiene una lista de carros vendidos a un cliente 
- * @author Laura Gonzalez
- * @author  Yesid Avila
+ * @author Alexander Martinez
  * @version 1
  */
 public class Venta {

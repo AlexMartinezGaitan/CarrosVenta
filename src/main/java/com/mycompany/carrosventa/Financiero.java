@@ -10,8 +10,7 @@ import java.util.List;
 
 /**
  * Esta clase contiene la lista de facturas de los carros vendidos 
- *@author Laura Gonzalez
- * @author  Yesid Avila
+ *@author Alexander Martinez
  * @version 1
  */
 public class Financiero {

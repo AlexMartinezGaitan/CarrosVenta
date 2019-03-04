@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Clase que maneja las personas que estan en el concesionario
  */

@@ -7,8 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  * Esta clase contiene a los clientes de la empresa 
- *@author Laura Gonzalez
- * @author  Yesid Avila
+ * @author  Alexander Martinez
  * @version 1
  */
 public class Cliente extends Persona {

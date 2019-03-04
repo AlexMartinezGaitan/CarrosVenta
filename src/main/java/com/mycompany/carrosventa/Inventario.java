@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  * @version 1.0
  * Esta clase almacena el listado de los carros en el sistema y controla el minimo de carros el cual esta en el inventario
  */

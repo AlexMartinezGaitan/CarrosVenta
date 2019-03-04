@@ -9,7 +9,7 @@ import javax.swing.JList;
 
 /**
  *
- * @author Yesid Avila
+ * @author Alexander Martinez
  */
 public class Principal {
     

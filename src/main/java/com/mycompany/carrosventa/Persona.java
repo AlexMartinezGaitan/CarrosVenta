@@ -7,8 +7,7 @@ package com.mycompany.carrosventa;
 
 /**
  * Esta clase es la clase padre de ciente y empleado la cual contiene sus atributos en comun 
- *@author Laura Gonzalez
- * @author  Yesid Avila
+ *@author Alexander Martinez
  * @version 1
  */
 public class Persona {
